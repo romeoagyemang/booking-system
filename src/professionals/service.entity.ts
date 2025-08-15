@@ -25,3 +25,4 @@ export class ServiceOffering {
   @Column({ default: 'USD' })
   currency: string;
 }
+
